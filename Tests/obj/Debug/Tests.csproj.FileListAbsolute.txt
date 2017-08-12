@@ -1,0 +1,12 @@
+D:\GitHub\Framework-master\Tests\bin\Debug\Tests.dll
+D:\GitHub\Framework-master\Tests\bin\Debug\Tests.pdb
+D:\GitHub\Framework-master\Tests\bin\Debug\Framework.exe
+D:\GitHub\Framework-master\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GitHub\Framework-master\Tests\bin\Debug\WebDriver.dll
+D:\GitHub\Framework-master\Tests\bin\Debug\WebDriver.Support.dll
+D:\GitHub\Framework-master\Tests\bin\Debug\Framework.pdb
+D:\GitHub\Framework-master\Tests\bin\Debug\WebDriver.xml
+D:\GitHub\Framework-master\Tests\bin\Debug\WebDriver.Support.xml
+D:\GitHub\Framework-master\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\GitHub\Framework-master\Tests\obj\Debug\Tests.dll
+D:\GitHub\Framework-master\Tests\obj\Debug\Tests.pdb
